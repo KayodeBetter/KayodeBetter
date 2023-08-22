@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello everyone,
 
-<!--
-**KayodeBetter/KayodeBetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I was currently accepted into The Cloud Native Computing Foundation "Zero to merge" Open source program with other bright minds from around the world. 
 
-Here are some ideas to get you started:
+So far I have learnt a lot and am excited as to what's still to come in my open source journey. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apart from open source I love travelling round the world by watching videos documentry and films as this helps me learn about other cultures. I also love visiting 
+the beach and the feel of the fresh wind on my face.
+
+You can connect with me via [linkedin](https://www.linkedin.com/in/kayode-better) 
+
+
+
