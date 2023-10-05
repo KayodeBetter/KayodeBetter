@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kayode Better</h1>
 <h3 align="center">A passionate Devops Engineer, currently residing in Benin.</h3>
-<img align="right alt="coding" width="400" src="https://dribbble.com/shots/4502902-DevOps-engineer-animation/attachments/10432181?mode=media">
+<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/4502902-DevOps-engineer-animation/attachments/10432181?mode=media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayodebetter&label=Profile%20views&color=0e75b6&style=flat" alt="kayodebetter" /> </p>
 
