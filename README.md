@@ -10,6 +10,6 @@ the beach and the feel of the fresh wind on my face.
 You can connect with me via [linkedin](https://www.linkedin.com/in/kayode-better) 
 
 
-https://github.com/KayodeBetter/github-readme-stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayodeBetter)](https://github.com/KayodeBetter/github-readme-stats)
 
 
