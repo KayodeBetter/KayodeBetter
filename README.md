@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayodebetter&label=Profile%20views&color=0e75b6&style=flat" alt="kayodebetter" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kayodebetter" alt="kayodebetter" /></a> </p>
+
 
 I was currently accepted into The Cloud Native Computing Foundation "Zero to merge" Open source program with other bright minds from around the world. 
 
 So far I have learnt a lot and am excited as to what's still to come in my open source journey. 
+
+
+
 - 🌱 I’m currently learning **Node Js and Kubernetes**
 
 - 💬 Ask me about **Devops and Cloud computing**
@@ -28,13 +31,5 @@ So far I have learnt a lot and am excited as to what's still to come in my open 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayodebetter&show_icons=true&locale=en" alt="kayodebetter" /></p>
 
 
-
-Apart from open source I love travelling round the world by watching videos documentry and films as this helps me learn about other cultures. I also love visiting 
-the beach and the feel of the fresh wind on my face.
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayodeBetter)](https://github.com/KayodeBetter/github-readme-stats)
 
 
