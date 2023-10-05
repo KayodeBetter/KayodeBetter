@@ -10,4 +10,6 @@ the beach and the feel of the fresh wind on my face.
 You can connect with me via [linkedin](https://www.linkedin.com/in/kayode-better) 
 
 
+https://github.com/KayodeBetter/github-readme-stats
+
 
