@@ -6,7 +6,7 @@
 
 
 
-I was currently accepted into The Cloud Native Computing Foundation "Zero to merge" Open source program with other bright minds from around the world. 
+I was accepted into The Cloud Native Computing Foundation "Zero to merge" Open source program with other bright minds from around the world. 
 
 So far I have learnt a lot and am excited as to what's still to come in my open source journey. 
 
