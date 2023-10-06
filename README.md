@@ -1,20 +1,19 @@
-<h1 align="center">Hi 👋, I'm Kayode Better</h1>
-<h3 align="center">A passionate Devops Engineer.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hi 👋, I'm KAYODE Better.</h1>
+<h3 align="center">A passionate Devops Engineer advocating for open source and currently exploring the Cloud Native Ecosystem.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayodebetter&label=Profile%20views&color=0e75b6&style=flat" alt="kayodebetter" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kayodebetter" alt="kayodebetter" /></a> </p>
 
+- 🔭 I’m currently working on **linux and AWS concepts/projects**
 
-I was accepted into The Cloud Native Computing Foundation "Zero to merge" Open source program with other bright minds from around the world. 
+- 🌱 I’m currently learning **Docker and Kubernetes**
 
-So far I have learnt a lot and am excited as to what's still to come in my open source journey. 
+- 👨‍💻 My projects Documentation are available at [https://medium.com/@emoshokeosumah](https://medium.com/@emoshokeosumah)
 
+- 📝 I regularly write articles on [https://medium.com/@emoshokeosumah](https://medium.com/@emoshokeosumah)
 
-
-- 🌱 I’m currently learning **Node Js and Kubernetes**
-
-- 💬 Ask me about **Devops and Cloud computing**
+- 💬 Ask me about **Devops,Cloud computing and Opensource**
 
 - 📫 How to reach me **emoshokeosumah@gmail.com**
 
@@ -30,7 +29,3 @@ So far I have learnt a lot and am excited as to what's still to come in my open 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayodebetter&show_icons=true&locale=en" alt="kayodebetter" /></p>
-
-
-
-
