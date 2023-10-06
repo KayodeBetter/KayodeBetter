@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm KAYODE Better.</h1>
 <h3 align="center">A passionate Devops Engineer advocating for open source and currently exploring the Cloud Native Ecosystem.</h3>
-<img align="left" alt="Devops image" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHKRZQ3xUtDgvIdS07hLLR9gEE8vmTvVWpWhL0YWt4RySNNZeuboXP5ulxJC-r3zkexlw&usqp=CAU">
+
+<img align="center" alt="Devops image" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHKRZQ3xUtDgvIdS07hLLR9gEE8vmTvVWpWhL0YWt4RySNNZeuboXP5ulxJC-r3zkexlw&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayodebetter&label=Profile%20views&color=0e75b6&style=flat" alt="kayodebetter" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kayodebetter" alt="kayodebetter" /></a> </p>
 
 - 🔭 I’m currently working on **linux and AWS concepts/projects**
 
