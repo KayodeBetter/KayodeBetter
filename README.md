@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm KAYODE Better.</h1>
 <h3 align="center">A passionate Devops Engineer, open source enthusiast and currently exploring the Cloud Native Ecosystem.</h3>
 
-<img align="center" alt="Devops image" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHKRZQ3xUtDgvIdS07hLLR9gEE8vmTvVWpWhL0YWt4RySNNZeuboXP5ulxJC-r3zkexlw&usqp=CAU">
+<p align="center">
+<img alt="Devops image" width="400" height="200"src="https://png.pngtree.com/png-vector/20200713/ourmid/pngtree-web-development-concept-flat-design-png-image_2303316.jpg">
+
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayodebetter&label=Profile%20views&color=0e75b6&style=flat" alt="kayodebetter" /> </p>
 
