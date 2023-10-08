@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KAYODE Better.</h1>
-<h3 align="center">A passionate Devops Engineer advocating for open source and currently exploring the Cloud Native Ecosystem.</h3>
+<h3 align="center">A passionate Devops Engineer, open source enthusiast and currently exploring the Cloud Native Ecosystem.</h3>
 
 <img align="center" alt="Devops image" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHKRZQ3xUtDgvIdS07hLLR9gEE8vmTvVWpWhL0YWt4RySNNZeuboXP5ulxJC-r3zkexlw&usqp=CAU">
 
